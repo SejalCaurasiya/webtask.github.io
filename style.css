@@ -1,0 +1,38 @@
+.hero-section{
+	background-image: url(pk.jpg);
+    top: 0; height: 100vh; position: relative; width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-position: center center;
+	font-family:'josefin sans', sans-serif;
+}
+
+.radio-inline{
+	margin:0px 40px 20px 0px;
+	cursor:pointer;
+}
+
+label{
+	color:#000;
+	font-weight: bold;
+	font-size: 18px;
+}
+#text{
+	height:50;
+	border-radius:5px;
+	padding-left:10px;
+	font-size:16px;
+	border:none;
+	width:100%;
+	padding: 5px;
+	outline:none;
+}
+#message{
+	outline:none;
+	border:none;
+	padding:10px 0px 0px 15px;
+	font-size:16px;
+	border-radius:5px;
+}
+	
+	
